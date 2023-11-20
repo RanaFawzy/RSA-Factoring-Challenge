@@ -6,8 +6,7 @@
 #include <stdio.h>
 #include <math.h>
 #include <string.h>
-
-int (int argc, char *argv[])
+int main(int argc, char *argv[])
 {
 	FILE *stream;
 	char *line = NULL;
